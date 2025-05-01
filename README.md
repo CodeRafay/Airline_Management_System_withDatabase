@@ -116,7 +116,7 @@ A comprehensive **Airline Management System** built using **C# Windows Forms** a
 ---
 
 ## 🙌 Contributors
-- Rafay Adeel 
-- Muhammad Muzammil Noor 
+- Rafay Adeel (@CodeRafay)
+- Muhammad Muzammil Noor (@Volburaal)
 
 
